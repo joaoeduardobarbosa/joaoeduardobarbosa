@@ -1,16 +1,15 @@
-## Hi there 👋
+### boa vindas ao meu perfil
 
-<!--
-**joaoeduardobarbosa/joaoeduardobarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e joaoeduardobarbosa
 
-Here are some ideas to get you started:
+-estou estudando no alura
+-estou me desenvolvendo na linguagem javaScript
+-utilizo esse espaço para minha organizaçâo e compartilhamentos dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entra em contato comigo
+
+joao.gruel@escola.pr.gov.br
+
+ @joao eduardo 
+
+ ![](https://media1.tenor.com/m/r0R0N3dI3kIAAAAd/dancing-cat-dance.gif)
